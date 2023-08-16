@@ -1,3 +1,6 @@
 .cabecalho_menu-amburguer{
 background-image:url(/imagens/Menu.svg.png)
 }
+div-1{ 
+    display:flex;justify-content:space-around;
+}
