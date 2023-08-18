@@ -10,11 +10,11 @@ background-position:center;
 .cabeçalho{
     background:var(--branco);
     display: flex;
-    align-items:center;
+    justify-content: space-between;
 }
 .div-1{
      display:flex;
-     justify-content:space-around ;
+     align-items: center;
 }
 h1{ display:none;
 }
