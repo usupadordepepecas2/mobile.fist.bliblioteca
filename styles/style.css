@@ -6,6 +6,9 @@
       --roxo:#733887;
       --fonte-principal: "poppins"
 }
+
+
+
 body{ background-color: var(--cor-de-fundo);
       font-family: var(--fonte-principal);
       font-size: 16px;

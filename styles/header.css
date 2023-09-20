@@ -6,6 +6,9 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+
 .cabecalho{
 background-color: var(--branco);
 display: flex;
@@ -14,13 +17,20 @@ align-items: center;
 position: relative;
 }
 
+
+
 .div-1{
     display: flex;
     align-items: center;
 }
+
+
+
 h1{
     display: none;
 }
+
+
 
 .lista-menu {
     display: block;
@@ -28,10 +38,15 @@ h1{
     top: 100%;
 }
 
+
+
+
 .lista-menu-titulo,.lista-menu-item{
     padding: 1em;
     background-color: var(--branco);
 }
+
+
 
 .lista-menu-titulo{
     color: var(--amarelo);
